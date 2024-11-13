@@ -4,7 +4,21 @@
 
 ## Use Case Statement
 
-This repository 
+This repository contains records of various experiments with large language models (LLMs) exploring use-cases, prompt engineering strategies and approaches, and more. 
+
+---
+
+## Logbook
+
+### 1: Comparing real-time news retrieval among commercial LLMs & search layers
+
+Summary: prompting LLMs and news data retrieval tools to ask for information about a recent news event to compare capabilities between models and between models and augmented search layers.
+
+[Read]()
+
+
+--- 
+ 
 
 ## Author
 
