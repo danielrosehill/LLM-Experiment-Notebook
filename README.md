@@ -1,8 +1,10 @@
-# LLM Head To Head Comparisons
+# LLM Experiments Logbook
+
+![alt text](images/llm-lab-header.webp)
 
 ## Use Case Statement
 
-Recorded comparisons evaluating LLMs comparatively for different prompting use-cases.
+This repository 
 
 ## Author
 
