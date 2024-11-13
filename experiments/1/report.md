@@ -1,6 +1,6 @@
 # Real Time News Summarisation Capabilities
 
-Date: 13-11 (Nov) - 2024
+Date: 13-11 (Nov) - 2024  
 Author: Daniel Rosehill
 
 ## Objective
@@ -25,6 +25,11 @@ Given that real time information retrieval is a relatively recent "innovation" e
 
 ---
 
+## Source Data
+
+- Source outputs collected in `outputs`  
+- `llm-analysis` is prompting an LLM  
+  
 ## Image
 
 Despite the collosal global interest in both OpenAI's tools and LLMs generally, there remains significant confusion and ambiguity around basic questions like: *"does the APi offer the real time search or just the web UI?"*
