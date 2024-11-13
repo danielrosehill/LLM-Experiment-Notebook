@@ -12,10 +12,13 @@ This repository contains records of various experiments with large language mode
 
 ### 1: Comparing real-time news retrieval among commercial LLMs & search layers
 
+*Date: 13-Nov-2024*
+
 Summary: prompting LLMs and news data retrieval tools to ask for information about a recent news event to compare capabilities between models and between models and augmented search layers.
 
-[Read]()
-
+<a href="https://github.com/danielrosehill/LLM-Experiments/blob/main/experiments/1/report.md" target="_blank">
+  <img src="https://img.shields.io/badge/Read%20Post-blue?style=for-the-badge" alt="Read Post">
+</a>
 
 --- 
  
