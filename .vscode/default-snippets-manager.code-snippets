@@ -1,0 +1,82 @@
+{
+	"Experiment notes template": {
+		"prefix": "Experiment notes template",
+		"description": "Experiment notes template",
+		"scope": "markdown",
+		"body": [
+			"# Experiment Notes",
+			"",
+			"| Field             | Description           |",
+			"| ----------------- | --------------------- |",
+			"| **Experiment ID**  | [Unique identifier]   |",
+			"| **Prompt ID**      | [Corresponding prompt ID] |",
+			"| **Date**           | [Date of experiment]  |",
+			"| **Models Compared**| [List of models compared in this experiment] |",
+			"",
+			"## General Observations:",
+			" ",
+			"",
+			"## Comparative Analysis:",
+			"",
+			"### Strengths:",
+			" ",
+			"",
+			"### Weaknesses:",
+			" ",
+			"",
+			"## Future Considerations:",
+			" "
+		]
+	},
+	"Sample output log": {
+		"prefix": "Sample output log",
+		"description": "Sample output log",
+		"scope": "markdown",
+		"body": [
+			"| Field             | Description           |",
+			"| ----------------- | --------------------- |",
+			"| **Model Name**    | [Model name (e.g., ChatGPT)] |",
+			"| **Version**       | [Model version or API version] |",
+			"| **Date**          | [Date of output generation] |",
+			"| **Temperature**   | [Temperature setting, if applicable] |",
+			"| **Max Tokens**    | [Maximum tokens allowed in response] |",
+			"",
+			" ",
+			"## Output:",
+			" ",
+			"",
+			"## Objective Metrics:",
+			"",
+			"| Metric             | Value                |",
+			"| ------------------ | -------------------- |",
+			"| **Word Count**     | [X words]            |",
+			"| **Character Count**| [Y characters]       |",
+			"| **Token Count**    | [Z tokens (if applicable)] |",
+			"",
+			"## Additional Notes:",
+			" "
+		]
+	},
+	"Prompt eval log ": {
+		"prefix": "Prompt eval log ",
+		"description": "Prompt eval log ",
+		"scope": "markdown",
+		"body": [
+			"# Prompt Information",
+			"",
+			"| Field         | Description       |",
+			"| ------------- | ----------------- |",
+			"| **Prompt ID** | [Unique identifier] |",
+			"| **Date**      | [Date of prompt]   |",
+			"| **Context**   | [Brief context or scenario] |",
+			"| **Goal**      | [Objective of the prompt] |",
+			"",
+			"## Prompt Text:",
+			"",
+			" ",
+			"",
+			"## Additional Notes:",
+			" "
+		]
+	}
+}
