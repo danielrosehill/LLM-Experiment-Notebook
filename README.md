@@ -2,6 +2,8 @@
 
 ![alt text](images/llm-lab-header.webp)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
+
 ## Use Case Statement
 
 This repository contains records of various experiments with large language models (LLMs) exploring use-cases, prompt engineering strategies and approaches, and more. 
